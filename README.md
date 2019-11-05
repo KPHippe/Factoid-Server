@@ -35,4 +35,3 @@ The client can delete any parts of the data by using the following syntax
 - [ ] clean up code
 - [ ] add more descriptive variable names
 - [ ] catch more segfaults (not a lot left but some still present)
-- [ ] Mercury
