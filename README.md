@@ -31,7 +31,7 @@ The client can delete any parts of the data by using the following syntax
     DELETE *Conversion/Constant/Definition *NameOfItem FACTP/0.9
 
 
- [] make so user does not have to type FACTP/0.9
- [] clean up code
- [] add more descriptive variable names
- [] catch more segfaults (not a lot left but some still present)
+- [] make so user does not have to type FACTP/0.9
+- [] clean up code
+- [] add more descriptive variable names
+- [] catch more segfaults (not a lot left but some still present)
